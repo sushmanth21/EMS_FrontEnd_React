@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "name": "sami",
+      "gender": "male",
+      "age": "23",
+      "state": "CSK"
+    },
+    {
+      "id": 4,
+      "name": "RamaN",
+      "gender": "Male",
+      "age": 22,
+      "state": "KKR"
+    }
+  ]
+}
